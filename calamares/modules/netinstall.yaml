@@ -152,7 +152,7 @@
     - gnome-terminal
     - arcolinux-cinnamon-git
     - arcolinux-config-cinnamon-git
-    - arcolinux-deepin-cinnamon-git
+    - arcolinux-cinnamon-dconf-git
 - name: "Desktop: Deepin"
   description: "Installs deepin desktop"
   critical: false
@@ -181,7 +181,7 @@
   hidden: false
   selected: false
   packages:
-    - herbsluftwm
+    - herbstluftwm
     - sxhkd
     - xtitle-git
     - polybar
@@ -213,7 +213,7 @@
     - pavucontrol-qt
     - obconf-qt
     - xscreensaver
-    - arcolinux-lxqt
+    - arcolinux-lxqt-git
     - arcolinux-config-lxqt-git
     - arcolinux-lxqt-dconf-git
 - name: "Desktop: Mate"
