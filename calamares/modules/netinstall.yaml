@@ -108,7 +108,7 @@
     - arcolinux-oblogout
     - arcolinux-oblogout-themes-git
     - arcolinux-config-awesome-git
-    - arcolinux-deepin-awesome-git
+    - arcolinux-awesome-dconf-git
 - name: "Desktop: Bspwm"
   description: "Installs bspwm desktop"
   critical: false
@@ -300,7 +300,7 @@
     - xmonad-utils
     - polybar
     - xmonad-log
-    - checkupdates-aur
+    - perl-www-aur
     - perl-checkupdates-aur
     - arcolinux-xmonad-polybar-git
     - arcolinux-polybar-git
