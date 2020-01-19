@@ -287,6 +287,6 @@
   hidden: false
   selected: false
   packages:
-    - lightdm
     - arcolinux-lightdm-gtk-greeter
     - arcolinux-lightdm-gtk-greeter-settings
+    - lightdm
