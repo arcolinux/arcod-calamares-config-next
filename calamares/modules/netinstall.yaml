@@ -116,6 +116,13 @@
     - nomacs
     - pinta
     - ristretto
+- name: "Fun"
+  description: "Fun"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - arcolinux-meta-fun
 - name: "Internet"
   description: "Internet"
   critical: false
@@ -207,10 +214,11 @@
   selected: false
   packages:
     - baobab
+    - glances
     - grsync
+    - gtop
+    - powertop
     - timeshift
-    - arcolinux-meta-utilities
-    - arcolinux-meta-fun
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
   critical: false
