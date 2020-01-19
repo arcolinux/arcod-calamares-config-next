@@ -247,3 +247,46 @@
     - wps-office
     - wps-office-mime
     - ttf-wps-fonts
+- name: "Desktop: Deepin"
+  description: "Installs deepin desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - deepin
+    - deepin-extra
+    - arcolinux-deepin-git
+    - arcolinux-config-deepin-git
+    - arcolinux-deepin-dconf-git
+- name: "Desktop: Plasma"
+  description: "Installs plasma desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - plasma-meta
+    - packagekit-qt5
+    - kde-applications-meta
+    - arcolinux-plasma-git
+    - arcolinux-config-plasma-git
+    - arcolinux-plasma-dconf-git
+- name: "Desktop: Xfce"
+  description: "Installs xfce desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - xfce4
+    - xfce4-goodies
+    - arcolinux-xfce4-git
+    - arcolinux-config-xfce-git
+    - arcolinux-xfce-dconf-git
+- name: "Login Manager"
+  description: "Installs lightdm - user enables lightdm manually"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - lightdm
+    - arcolinux-lightdm-gtk-greeter
+    - arcolinux-lightdm-gtk-greeter-settings
