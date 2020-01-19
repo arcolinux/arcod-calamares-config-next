@@ -66,6 +66,246 @@
   selected: false
   packages:
     - amd-ucode
+- name: "Login Manager: Lightdm"
+  description: "Installs lightdm - user enables lightdm manually"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - lightdm
+    - arcolinux-lightdm-gtk-greeter
+    - arcolinux-lightdm-gtk-greeter-settings
+- name: "Login Manager: Sddm"
+  description: "Installs sddm - user enables lightdm manually"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - sddm
+- name: "Login Manager: Gdm"
+  description: "Installs gdm - user enables lightdm manually"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - gdm
+- name: "Login Manager: Lxdm"
+  description: "Installs lxdm - user enables lightdm manually"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - lxdm
+- name: "Desktop: Awesome"
+  description: "Installs awesome desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - awesome
+    - vicious
+    - arcolinux-awesome-git
+    - arcolinux-oblogout
+    - arcolinux-oblogout-themes-git
+    - arcolinux-config-awesome-git
+    - arcolinux-deepin-awesome-git
+- name: "Desktop: Bspwm"
+  description: "Installs bspwm desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - bspwm
+    - sxhkd
+    - awesome-terminal-fonts
+    - polybar
+    - sutils-git
+    - xtitle-git
+    - arcolinux-bspwm-git
+    - arcolinux-polybar-git
+    - arcolinux-oblogout
+    - arcolinux-oblogout-themes-git
+    - arcolinux-config-bspwm-git
+    - arcolinux-bspwm-dconf-git
+- name: "Desktop: Budgie"
+  description: "Installs budgie desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - budgie-desktop
+    - budgie-extras
+    - gnome
+    - gnome-extra
+    - arcolinux-budgie-git
+    - arcolinux-config-budgie-git
+    - arcolinux-budgie-dconf-git
+- name: "Desktop: Cinnamon"
+  description: "Installs cinnamon desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - cinnamon
+    - nemo-fileroller
+    - cinnamon-translations
+    - gnome-terminal
+    - arcolinux-cinnamon-git
+    - arcolinux-config-cinnamon-git
+    - arcolinux-deepin-cinnamon-git
+- name: "Desktop: Deepin"
+  description: "Installs deepin desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - deepin
+    - deepin-extra
+    - arcolinux-deepin-git
+    - arcolinux-config-deepin-git
+    - arcolinux-deepin-dconf-git
+- name: "Desktop: Gnome"
+  description: "Installs gnome desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - gnome
+    - gnome-extra
+    - arcolinux-gnome-git
+    - arcolinux-config-gnome-git
+    - arcolinux-gnome-dconf-git
+- name: "Desktop: Herbstluftwm"
+  description: "Installs herbstluftwm desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - herbsluftwm
+    - sxhkd
+    - xtitle-git
+    - polybar
+    - arcolinux-herbstluftwm-git
+    - arcolinux-oblogout
+    - arcolinux-oblogout-themes-git
+    - arcolinux-polybar-git
+    - arcolinux-config-herbstluftwm-git
+    - arcolinux-herbstluftwm-dconf-git
+- name: "Desktop: i3"
+  description: "Installs i3 desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - i3-gaps
+    - i3status
+    - dmenu
+    - arcolinux-i3wm-git
+    - arcolinux-config-i3wm-git
+    - arcolinux-i3wm-dconf-git
+- name: "Desktop: Lxqt"
+  description: "Installs lxqt desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - lxqt
+    - pavucontrol-qt
+    - obconf-qt
+    - xscreensaver
+    - arcolinux-lxqt
+    - arcolinux-config-lxqt-git
+    - arcolinux-lxqt-dconf-git
+- name: "Desktop: Mate"
+  description: "Installs mate desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - mate
+    - mate-extra
+    - arcolinux-mate-git
+    - arcolinux-config-mate-git
+    - arcolinux-mate-dconf-git
+- name: "Desktop: Openbox"
+  description: "Installs openbox desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - openbox
+    - obmenu-generator
+    - gtk2-perl
+    - obconf
+    - yad
+    - obmenu3
+    - perl-linux-desktopfiles
+    - arcolinux-openbox-git
+    - arcolinux-obmenu-generator-git
+    - arcolinux-oblogout
+    - arcolinux-oblogout-themes-git
+    - arcolinux-pipemenus-git
+    - arcolinux-config-openbox-git
+    - arcolinux-openbox-dconf-git
+- name: "Desktop: Plasma"
+  description: "Installs plasma desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - plasma-meta
+    - packagekit-qt5
+    - kde-applications-meta
+    - partitionmanager
+    - ktorrent
+    - kdeconnect
+    - systemd-kcm
+    - ocs-url
+    - arcolinux-plasma-git
+    - arcolinux-config-plasma-git
+    - arcolinux-plasma-dconf-git
+- name: "Desktop: Qtile"
+  description: "Installs qtile desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - qtile
+    - python-psutil
+    - arcolinux-qtile-git
+    - arcolinux-oblogout
+    - arcolinux-oblogout-themes-git
+    - arcolinux-config-qtile-git
+    - arcolinux-qtile-dconf-git
+- name: "Desktop: Xfce"
+  description: "Installs xfce desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - xfce4
+    - xfce4-goodies
+    - arcolinux-xfce-git
+    - arcolinux-config-xfce-git
+    - arcolinux-xfce-dconf-git
+- name: "Desktop: Xmonad"
+  description: "Installs xmonad desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - xmonad
+    - xmonad-contrib
+    - haskell-dbus
+    - xmonad-utils
+    - polybar
+    - xmonad-log
+    - checkupdates-aur
+    - perl-checkupdates-aur
+    - arcolinux-xmonad-polybar-git
+    - arcolinux-polybar-git
+    - arcolinux-config-xmonad-git
+    - arcolinux-xmonad-dconf-git
 - name: "Accessories"
   description: "Accessories"
   critical: false
@@ -247,67 +487,3 @@
     - wps-office
     - wps-office-mime
     - ttf-wps-fonts
-- name: "Desktop: Deepin"
-  description: "Installs deepin desktop"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - deepin
-    - deepin-extra
-    - arcolinux-deepin-git
-    - arcolinux-config-deepin-git
-    - arcolinux-deepin-dconf-git
-- name: "Desktop: Plasma"
-  description: "Installs plasma desktop"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - plasma-meta
-    - packagekit-qt5
-    - kde-applications-meta
-    - arcolinux-plasma-git
-    - arcolinux-config-plasma-git
-    - arcolinux-plasma-dconf-git
-- name: "Desktop: Xfce"
-  description: "Installs xfce desktop"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - xfce4
-    - xfce4-goodies
-    - arcolinux-xfce4-git
-    - arcolinux-config-xfce-git
-    - arcolinux-xfce-dconf-git
-- name: "Login Manager: Lightdm"
-  description: "Installs lightdm - user enables lightdm manually"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - lightdm
-    - arcolinux-lightdm-gtk-greeter
-    - arcolinux-lightdm-gtk-greeter-settings
-- name: "Login Manager: Sddm"
-  description: "Installs sddm - user enables lightdm manually"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - sddm
-- name: "Login Manager: Gdm"
-  description: "Installs gdm - user enables lightdm manually"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - gdm
-- name: "Login Manager: Lxdm"
-  description: "Installs lxdm - user enables lightdm manually"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - lxdm
