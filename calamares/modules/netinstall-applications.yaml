@@ -117,6 +117,7 @@
   hidden: false
   selected: false
   packages:
+    - ardour
     - audacious
     - audacity
     - celluloid
@@ -127,6 +128,7 @@
     - handbrake
     - kdenlive
     - lollypop
+    - lmms
     - obs-studio
     - openshot
     - mpv
@@ -171,6 +173,8 @@
     - baobab
     - catfish
     - evince
+    - gitahead-bin
+    - gitfiend
     - glances
     - glxinfo
     - grsync
@@ -181,6 +185,7 @@
     - open-vm-tools
     - powertop
     - simple-scan
+    - systemd-manager
     - timeshift
     - vnstat
     - wttr
