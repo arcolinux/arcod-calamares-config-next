@@ -81,8 +81,7 @@
     - evolution
     - falkon
     - filezilla
-    - firefox
-    - firefox-i18n-$LOCALE    
+    - firefox-i18n-$LOCALE
     - geary
     - hexchat
     - insync
