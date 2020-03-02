@@ -31,10 +31,16 @@
   selected: false
   packages:
     - adobe-source-sans-pro-fonts
+    - awesome-terminal-fonts
     - terminus-font
     - ttf-bitstream-vera
+    - ttf-droid
+    - ttf-fira-code
+    - ttf-font-awesome
+    - ttf-hack
     - ttf-inconsolata
     - ttf-liberation
+    - ttf-roboto
     - ttf-ubuntu-font-family
 - name: "Games"
   description: "Games"
@@ -183,6 +189,7 @@
     - hddtemp
     - lm_sensors
     - open-vm-tools
+    - pamac-aur
     - powertop
     - simple-scan
     - systemd-manager

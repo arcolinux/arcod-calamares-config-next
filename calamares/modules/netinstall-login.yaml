@@ -7,6 +7,7 @@
     - lightdm
     - arcolinux-lightdm-gtk-greeter
     - arcolinux-lightdm-gtk-greeter-settings
+    - arcolinux-wallpapers-git
 - name: "Login Manager: Sddm"
   description: "Installs sddm - user enables sddm manually"
   critical: false
@@ -14,6 +15,7 @@
   selected: false
   packages:
     - sddm
+    - arcolinux-wallpapers-git
 - name: "Login Manager: Gdm"
   description: "Installs gdm - user enables gdm manually"
   critical: false
@@ -21,6 +23,7 @@
   selected: false
   packages:
     - gdm
+    - arcolinux-wallpapers-git
 - name: "Login Manager: Lxdm"
   description: "Installs lxdm - user enables lxdm manually"
   critical: false
@@ -28,3 +31,4 @@
   selected: false
   packages:
     - lxdm
+    - arcolinux-wallpapers-git
