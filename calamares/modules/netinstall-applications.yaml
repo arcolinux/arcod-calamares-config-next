@@ -13,6 +13,14 @@
     - arcolinux-variety-git
     - variety
     - xfburn
+- name: "Calligra"
+  description: "Office Suite"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - calligra
+    - calligra-plan
 - name: "Development"
   description: "Development"
   critical: false
