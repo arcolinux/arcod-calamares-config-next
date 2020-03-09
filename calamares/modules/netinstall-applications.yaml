@@ -57,6 +57,7 @@
   selected: false
   packages:
     - arcolinux-meta-steam
+    - lutris
 - name: "Graphics"
   description: "Graphics"
   critical: false
