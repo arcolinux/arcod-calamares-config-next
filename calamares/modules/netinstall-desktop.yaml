@@ -148,6 +148,8 @@
     - tint2
     - arcolinux-tint2-git
     - arcolinux-tint2-themes-git
+    - nitrogen
+    - arcolinux-nitrogen-git
     - perl-linux-desktopfiles
     - arcolinux-openbox-git
     - arcolinux-obmenu-generator-git
