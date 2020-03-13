@@ -178,7 +178,9 @@
     - arcolinux-config-plasma-git
     - arcolinux-plasma-dconf-git
     - conky-lua-archers
-    - arcolinux-conky-collection-plasma-git 
+    - arcolinux-conky-collection-plasma-git
+    - yad
+    - arcolinux-pipemenus-git
 - name: "Desktop: Qtile"
   description: "Installs qtile desktop"
   critical: false

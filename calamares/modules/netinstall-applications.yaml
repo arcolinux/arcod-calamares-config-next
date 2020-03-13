@@ -29,6 +29,8 @@
   packages:
     - conky-lua-archers
     - arcolinux-conky-collection-git
+    - yad
+    - arcolinux-pipemenus-git    
 - name: "Development"
   description: "Development"
   critical: false
