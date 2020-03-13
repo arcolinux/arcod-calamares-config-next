@@ -145,6 +145,9 @@
     - yad
     - dmenu
     - obmenu3
+    - tint2
+    - arcolinux-tint2-git
+    - arcolinux-tint2-themes-git
     - perl-linux-desktopfiles
     - arcolinux-openbox-git
     - arcolinux-obmenu-generator-git
