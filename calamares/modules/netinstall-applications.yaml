@@ -21,6 +21,14 @@
   packages:
     - calligra
     - calligra-plan
+- name: "Conky"
+  description: "Conky and conky collection"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - conky-lua-archers
+    - arcolinux-conky-collection-git
 - name: "Development"
   description: "Development"
   critical: false
