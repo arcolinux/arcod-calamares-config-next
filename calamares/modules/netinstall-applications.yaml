@@ -30,7 +30,7 @@
     - conky-lua-archers
     - arcolinux-conky-collection-git
     - yad
-    - arcolinux-pipemenus-git    
+    - arcolinux-pipemenus-git
 - name: "Development"
   description: "Development"
   critical: false
@@ -166,6 +166,14 @@
     - spotify
     - spotifywm-git
     - vlc
+- name: "Privacy"
+  description: "Applications that ensure your privacy"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - tor
+    - privoxy
 - name: "Themes"
   description: "Themes"
   critical: false
