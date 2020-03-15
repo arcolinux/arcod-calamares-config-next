@@ -181,6 +181,7 @@
     - arcolinux-conky-collection-plasma-git
     - yad
     - arcolinux-pipemenus-git
+    - cryfs
 - name: "Desktop: Qtile"
   description: "Installs qtile desktop"
   critical: false
