@@ -187,6 +187,7 @@
     - arc-icon-theme
     - arcolinux-arc-kde
     - arcolinux-arc-themes-nico-git
+    - breeze
     - faba-icon-theme
     - gnome-icon-theme
     - moka-icon-theme
@@ -198,6 +199,7 @@
     - paper-icon-theme
     - papirus-icon-theme
     - surfn-arc-breeze-icons-git
+    - xcursor-breeze
     - xcursor-simpleandsoft
 - name: "Utilities"
   description: "Utilities"
