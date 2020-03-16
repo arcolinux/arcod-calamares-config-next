@@ -225,6 +225,7 @@
   packages:
     - baobab
     - catfish
+    - etcher-bin
     - evince
     - gitahead-bin
     - gitfiend
@@ -234,9 +235,11 @@
     - gtop
     - gufw
     - hddtemp
+    - imagewriter
     - lm_sensors
     - open-vm-tools
     - meld
+    - mintstick-git
     - pamac-aur
     - powertop
     - simple-scan
