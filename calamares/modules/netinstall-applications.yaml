@@ -42,6 +42,7 @@
     - geany
     - geany-plugins
     - kdevelop
+    - sublime-text-dev
 - name: "Fonts"
   description: "Fonts"
   critical: false
@@ -106,6 +107,7 @@
     - evolution
     - falkon
     - filezilla
+    - firefox
     - firefox-i18n-$LOCALE
     - geary
     - hexchat
@@ -216,6 +218,7 @@
     - hddtemp
     - lm_sensors
     - open-vm-tools
+    - meld
     - pamac-aur
     - powertop
     - simple-scan

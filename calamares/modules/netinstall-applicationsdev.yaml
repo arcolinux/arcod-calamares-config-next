@@ -1,4 +1,4 @@
-- name: "Development Software"
+- name: "ArcoLinux Dev"
   description: "Development software"
   critical: false
   hidden: false
@@ -9,3 +9,4 @@
     - flameshot
     - scrot
     - meld
+    - the_platinum_searcher-bin
