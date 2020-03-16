@@ -184,6 +184,7 @@
     - yad
     - arcolinux-pipemenus-git
     - cryfs
+    - breeze
 - name: "Desktop: Qtile"
   description: "Installs qtile desktop"
   critical: false
