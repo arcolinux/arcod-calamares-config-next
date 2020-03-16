@@ -158,6 +158,7 @@
     - arcolinux-pipemenus-git
     - arcolinux-config-openbox-git
     - arcolinux-openbox-dconf-git
+    - arcolinux-common-git
     - xcape
 - name: "Desktop: Plasma"
   description: "Installs plasma desktop"
