@@ -1,0 +1,11 @@
+- name: "Development Software"
+  description: "Development software"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - firefox
+    - sublime-text-dev
+    - flameshot
+    - scrot
+    - meld
