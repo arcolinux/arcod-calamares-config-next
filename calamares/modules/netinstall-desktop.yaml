@@ -12,6 +12,9 @@
     - arcolinux-oblogout-themes-git
     - arcolinux-config-awesome-git
     - arcolinux-awesome-dconf-git
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git
 - name: "Desktop: Bspwm"
   description: "Installs bspwm desktop"
   critical: false
@@ -31,6 +34,9 @@
     - arcolinux-oblogout-themes-git
     - arcolinux-config-bspwm-git
     - arcolinux-bspwm-dconf-git
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git
 - name: "Desktop: Budgie"
   description: "Installs budgie desktop"
   critical: false
@@ -96,6 +102,9 @@
     - arcolinux-polybar-git
     - arcolinux-config-herbstluftwm-git
     - arcolinux-herbstluftwm-dconf-git
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git
 - name: "Desktop: i3"
   description: "Installs i3 desktop"
   critical: false
@@ -108,6 +117,9 @@
     - arcolinux-i3wm-git
     - arcolinux-config-i3wm-git
     - arcolinux-i3wm-dconf-git
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git
 - name: "Desktop: Lxqt"
   description: "Installs lxqt desktop"
   critical: false
@@ -162,6 +174,9 @@
     - arcolinux-openbox-dconf-git
     - arcolinux-common-git
     - xcape
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git
 - name: "Desktop: Plasma"
   description: "Installs plasma desktop"
   critical: false
@@ -205,6 +220,9 @@
     - arcolinux-oblogout-themes-git
     - arcolinux-config-qtile-git
     - arcolinux-qtile-dconf-git
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git
 - name: "Desktop: Xfce"
   description: "Installs xfce desktop"
   critical: false
@@ -238,3 +256,6 @@
     - arcolinux-xmonad-dconf-git
     - arcolinux-oblogout
     - arcolinux-oblogout-themes-git
+    - thunar
+    - thunar-archive-plugin
+    - arcolinux-xfce-git  
