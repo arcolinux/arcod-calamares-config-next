@@ -184,6 +184,13 @@
     - spotify
     - spotifywm-git
     - vlc
+- name: "Onlyoffice"
+  description: "Onlyoffice"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - onlyoffice-bin
 - name: "Privacy"
   description: "Applications that ensure your privacy"
   critical: false
