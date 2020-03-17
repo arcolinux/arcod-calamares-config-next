@@ -347,3 +347,4 @@
     - zsh
     - zsh-completions
     - zsh-syntax-highlighting
+    - oh-my-zsh-git
