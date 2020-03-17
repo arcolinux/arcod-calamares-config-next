@@ -363,3 +363,4 @@
     - zsh-completions
     - zsh-syntax-highlighting
     - oh-my-zsh-git
+    - arcolinux-zsh-git
