@@ -126,6 +126,7 @@
     - firefox
     - firefox-i18n-$LOCALE
     - geary
+    - google-chrome
     - hexchat
     - insync
     - ktorrent
