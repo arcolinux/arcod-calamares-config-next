@@ -121,6 +121,7 @@
     - arcolinux-lxqt-git
     - arcolinux-config-lxqt-git
     - arcolinux-lxqt-dconf-git
+    - lxqt-arc-dark-theme-git
 - name: "Desktop: Mate"
   description: "Installs mate desktop"
   critical: false
@@ -169,7 +170,7 @@
     - plasma-meta
     - kdeadmin-meta
     - kdebase-meta
-    - kde-applications-meta    
+    - kde-applications-meta
     - packagekit-qt5
     - partitionmanager
     - ktorrent
