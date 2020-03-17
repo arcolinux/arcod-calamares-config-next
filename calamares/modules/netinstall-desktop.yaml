@@ -122,6 +122,7 @@
     - arcolinux-config-lxqt-git
     - arcolinux-lxqt-dconf-git
     - lxqt-arc-dark-theme-git
+    - arcolinux-qt5-git
 - name: "Desktop: Mate"
   description: "Installs mate desktop"
   critical: false

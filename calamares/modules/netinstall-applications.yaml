@@ -222,6 +222,20 @@
     - tor-browser
     - tor
     - privoxy
+- name: "Terminals"
+  description: "Terminals"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - alacritty
+    - gnome-terminal
+    - kitty
+    - konsole
+    - terminator
+    - termite
+    - tilix
+    - tmux
 - name: "Themes"
   description: "Themes"
   critical: false
@@ -276,6 +290,7 @@
     - meld
     - pamac-aur
     - powertop
+    - putty
     - simple-scan
     - systemd-manager
     - teamviewer
