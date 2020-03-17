@@ -52,6 +52,7 @@
     - arcolinux-budgie-git
     - arcolinux-config-budgie-git
     - arcolinux-budgie-dconf-git
+    - guake
 - name: "Desktop: Cinnamon"
   description: "Installs cinnamon desktop"
   critical: false
@@ -87,6 +88,7 @@
     - arcolinux-gnome-git
     - arcolinux-config-gnome-git
     - arcolinux-gnome-dconf-git
+    - guake
 - name: "Desktop: Herbstluftwm"
   description: "Installs herbstluftwm desktop"
   critical: false
