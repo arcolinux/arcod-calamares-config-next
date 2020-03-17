@@ -85,6 +85,7 @@
   packages:
     - arcolinux-meta-steam
     - lutris
+    - minecraft-launcher
 - name: "Graphics"
   description: "Graphics"
   critical: false
