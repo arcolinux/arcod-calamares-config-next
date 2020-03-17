@@ -252,11 +252,13 @@
     - pamac-aur
     - powertop
     - simple-scan
+    - skypeforlinux-stable-bin
     - systemd-manager
     - timeshift
     - vnstat
     - wttr
     - youtube-dl
+    - zoom
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
   critical: false
