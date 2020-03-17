@@ -289,6 +289,7 @@
   hidden: false
   selected: false
   packages:
+    - albert
     - archey3
     - baobab
     - bleachbit
