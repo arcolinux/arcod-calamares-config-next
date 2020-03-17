@@ -30,7 +30,7 @@
     - discord
     - skypeforlinux-stable-bin
     - teams
-    - telegram
+    - telegram-desktop
     - zoom
 - name: "Conky"
   description: "Conky and conky collection"
