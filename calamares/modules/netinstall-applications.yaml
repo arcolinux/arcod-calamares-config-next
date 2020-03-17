@@ -266,7 +266,6 @@
     - catfish
     - evince
     - glances
-    - glxinfo
     - grsync
     - gtop
     - gufw
@@ -284,7 +283,6 @@
     - vnstat
     - wttr
     - youtube-dl
-    - zoom
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
   critical: false
