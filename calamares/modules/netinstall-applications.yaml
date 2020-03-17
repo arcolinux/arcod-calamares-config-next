@@ -146,6 +146,7 @@
     - falkon
     - filezilla
     - firefox
+    - firefox-adblock-plus
     - firefox-i18n-$LOCALE
     - geary
     - google-chrome
@@ -215,6 +216,15 @@
   selected: false
   packages:
     - onlyoffice-bin
+- name: "Password Manager"
+  description: "Password manager"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - keepassxc
+    - lastpass
+    - bitwarden-bin
 - name: "Privacy"
   description: "Applications that ensure your privacy"
   critical: false
@@ -283,6 +293,7 @@
   packages:
     - archey3
     - baobab
+    - bleachbit
     - caffeine-ng
     - catfish
     - evince
@@ -299,6 +310,9 @@
     - powertop
     - putty
     - simple-scan
+    - screenfetch
+    - screenkey-git
+    - stacer-bin
     - systemd-manager
     - teamviewer
     - timeshift
