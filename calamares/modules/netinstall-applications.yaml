@@ -230,11 +230,15 @@
   packages:
     - alacritty
     - gnome-terminal
+    - guake
     - kitty
     - konsole
+    - lxterminal
+    - sakura
     - terminator
     - termite
     - tilix
+    - tilda
     - tmux
 - name: "Themes"
   description: "Themes"
