@@ -27,8 +27,10 @@
   hidden: false
   selected: false
   packages:
+    - discord
     - skypeforlinux-stable-bin
     - teams
+    - telegram
     - zoom
 - name: "Conky"
   description: "Conky and conky collection"
