@@ -15,6 +15,7 @@
     - thunar
     - thunar-archive-plugin
     - arcolinux-xfce-git
+    - xfce4-terminal
 - name: "Desktop: Bspwm"
   description: "Installs bspwm desktop"
   critical: false
@@ -37,6 +38,7 @@
     - thunar
     - thunar-archive-plugin
     - arcolinux-xfce-git
+    - xfce4-terminal
 - name: "Desktop: Budgie"
   description: "Installs budgie desktop"
   critical: false
@@ -105,6 +107,7 @@
     - thunar
     - thunar-archive-plugin
     - arcolinux-xfce-git
+    - xfce4-terminal
 - name: "Desktop: i3"
   description: "Installs i3 desktop"
   critical: false
@@ -120,6 +123,7 @@
     - thunar
     - thunar-archive-plugin
     - arcolinux-xfce-git
+    - xfce4-terminal
 - name: "Desktop: Lxqt"
   description: "Installs lxqt desktop"
   critical: false
@@ -135,6 +139,7 @@
     - arcolinux-lxqt-dconf-git
     - lxqt-arc-dark-theme-git
     - arcolinux-qt5-git
+    - xfce4-terminal
 - name: "Desktop: Mate"
   description: "Installs mate desktop"
   critical: false
@@ -177,6 +182,7 @@
     - thunar
     - thunar-archive-plugin
     - arcolinux-xfce-git
+    - xfce4-terminal
 - name: "Desktop: Plasma"
   description: "Installs plasma desktop"
   critical: false
@@ -223,6 +229,7 @@
     - thunar
     - thunar-archive-plugin
     - arcolinux-xfce-git
+    - xfce4-terminal
 - name: "Desktop: Xfce"
   description: "Installs xfce desktop"
   critical: false
@@ -258,4 +265,5 @@
     - arcolinux-oblogout-themes-git
     - thunar
     - thunar-archive-plugin
-    - arcolinux-xfce-git  
+    - arcolinux-xfce-git
+    - xfce4-terminal
