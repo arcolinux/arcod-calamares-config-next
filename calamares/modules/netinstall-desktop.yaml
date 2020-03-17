@@ -169,8 +169,8 @@
     - plasma-meta
     - kdeadmin-meta
     - kdebase-meta
+    - kde-applications-meta    
     - packagekit-qt5
-    - kde-applications-meta
     - partitionmanager
     - ktorrent
     - kdeconnect
@@ -179,12 +179,15 @@
     - arcolinux-plasma-git
     - arcolinux-config-plasma-git
     - arcolinux-plasma-dconf-git
+    - arcolinux-root-git
     - conky-lua-archers
     - arcolinux-conky-collection-plasma-git
     - yad
     - arcolinux-pipemenus-git
     - cryfs
     - breeze
+    - arcolinux-arc-kde
+    - surfn-arc-breeze-icons-git
 - name: "Desktop: Qtile"
   description: "Installs qtile desktop"
   critical: false
