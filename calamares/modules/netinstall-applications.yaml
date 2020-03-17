@@ -232,6 +232,7 @@
   hidden: false
   selected: false
   packages:
+    - archey3
     - baobab
     - catfish
     - etcher-bin
