@@ -306,6 +306,7 @@
     - open-vm-tools
     - optimus-manager
     - meld
+    - octopi
     - pamac-aur
     - powertop
     - putty
