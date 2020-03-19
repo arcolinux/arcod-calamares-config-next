@@ -16,6 +16,7 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
 - name: "Desktop: Bspwm"
   description: "Installs bspwm desktop"
   critical: false
@@ -39,6 +40,7 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
 - name: "Desktop: Budgie"
   description: "Installs budgie desktop"
   critical: false
@@ -110,6 +112,7 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
 - name: "Desktop: i3"
   description: "Installs i3 desktop"
   critical: false
@@ -126,6 +129,7 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
 - name: "Desktop: Lxqt"
   description: "Installs lxqt desktop"
   critical: false
@@ -185,6 +189,7 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
 - name: "Desktop: Plasma"
   description: "Installs plasma desktop"
   critical: false
@@ -232,6 +237,7 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
 - name: "Desktop: Xfce"
   description: "Installs xfce desktop"
   critical: false
@@ -269,3 +275,4 @@
     - thunar-archive-plugin
     - arcolinux-xfce-git
     - xfce4-terminal
+    - picom
