@@ -31,6 +31,9 @@
     - skypeforlinux-stable-bin
     - teams
     - telegram-desktop
+    - viber
+    - wire-desktop
+    - wireshark-qt
     - zoom
 - name: "Conky"
   description: "Conky and conky collection"
