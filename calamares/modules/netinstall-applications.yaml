@@ -28,12 +28,14 @@
   selected: false
   packages:
     - discord
+    - qtox
+    - riot-desktop
     - skypeforlinux-stable-bin
     - teams
     - telegram-desktop
     - viber
+    - wavebox-bin
     - wire-desktop
-    - wireshark-qt
     - zoom
 - name: "Conky"
   description: "Conky and conky collection"
@@ -320,6 +322,7 @@
     - teamviewer
     - timeshift
     - vnstat
+    - wireshark-qt
     - wttr
     - youtube-dl
 - name: "Virtualbox for Linux kernel"
