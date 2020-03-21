@@ -34,7 +34,6 @@
     - teams
     - telegram-desktop
     - viber
-    - wavebox-bin
     - wire-desktop
     - zoom
 - name: "Conky"
