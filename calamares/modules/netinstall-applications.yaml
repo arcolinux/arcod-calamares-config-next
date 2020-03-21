@@ -296,6 +296,7 @@
   packages:
     - albert
     - archey3
+    - arcolinux-teamviewer
     - baobab
     - bleachbit
     - caffeine-ng
@@ -318,7 +319,6 @@
     - screenfetch
     - synapse
     - systemd-manager
-    - arcolinux-teamviewer
     - timeshift
     - vnstat
     - wireshark-qt
