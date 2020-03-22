@@ -1,0 +1,18 @@
+- name: "Development"
+  description: "Development"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - atom
+    - brackets-bin
+    - code
+    - geany
+    - geany-plugins
+    - intellij-idea-community-edition
+    - kdevelop
+    - leafpad
+    - notepadqq
+    - pycharm-community-edition
+    - sublime-text-dev
+    - visual-studio-code-bin

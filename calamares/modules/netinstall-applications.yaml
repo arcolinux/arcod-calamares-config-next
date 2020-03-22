@@ -13,14 +13,6 @@
     - arcolinux-variety-git
     - variety
     - xfburn
-- name: "Calligra"
-  description: "Office Suite"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - calligra
-    - calligra-plan
 - name: "Communication"
   description: "Communication"
   critical: false
@@ -46,19 +38,6 @@
     - arcolinux-conky-collection-git
     - yad
     - arcolinux-pipemenus-git
-- name: "Development"
-  description: "Development"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - atom
-    - code
-    - geany
-    - geany-plugins
-    - kdevelop
-    - sublime-text-dev
-    - visual-studio-code-bin
 - name: "File Manager"
   description: "Filemanager"
   critical: false
@@ -163,24 +142,6 @@
     - transmission-gtk
     - vivaldi
     - whatsapp-nativefier
-- name: "Libre Office Fresh"
-  description: "Installs libre office fresh - feature branch - conflicts with still"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - libreoffice-fresh
-    - libreoffice-fresh-$LOCALE
-    - hunspell-$LOCALE
-- name: "Libre Office Still"
-  description: "Installs libre office still - stable branch - conflicts with fresh"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - libreoffice-still
-    - libreoffice-still-$LOCALE
-    - hunspell-$LOCALE
 - name: "Multimedia"
   description: "Multimedia"
   critical: false
@@ -211,13 +172,6 @@
     - spotify
     - spotifywm-git
     - vlc
-- name: "Onlyoffice"
-  description: "Onlyoffice"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - onlyoffice-bin
 - name: "Password Manager"
   description: "Password manager"
   critical: false
@@ -343,15 +297,6 @@
     - virtualbox-host-dkms
     - linux-lts-headers
     - linux-lts
-- name: "WPS Office"
-  description: "Installs wps office"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - wps-office
-    - wps-office-mime
-    - ttf-wps-fonts
 - name: "Zsh"
   description: "Zsh"
   critical: false
