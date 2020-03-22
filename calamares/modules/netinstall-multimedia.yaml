@@ -21,7 +21,10 @@
     - lmms
     - obs-studio
     - openshot
+    - mpc
+    - mpd
     - mpv
+    - ncmpcpp
     - peek
     - plex-media-player
     - plex-media-server
