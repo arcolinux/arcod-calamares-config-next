@@ -3,6 +3,7 @@
   critical: false
   hidden: false
   selected: false
+  expanded: true
   packages:
     - firefox
     - sublime-text-dev

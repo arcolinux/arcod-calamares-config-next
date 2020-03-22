@@ -3,6 +3,7 @@
   hidden: false
   selected: false
   critical: false
+  expanded: false
   packages:
     - pulseaudio-bluetooth
     - bluez

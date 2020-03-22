@@ -178,9 +178,10 @@
   hidden: false
   selected: false
   packages:
+    - bitwarden-bin
+    - enpass-bin
     - keepassxc
     - lastpass
-    - bitwarden-bin
 - name: "Privacy"
   description: "Applications that ensure your privacy"
   critical: false
@@ -208,8 +209,8 @@
     - tilix
     - tilda
     - tmux
-- name: "Themes"
-  description: "Themes"
+- name: "Theming"
+  description: "Theming"
   critical: false
   hidden: false
   selected: false
@@ -242,42 +243,6 @@
     - imagewriter
     - mintstick-git
     - woeusb
-- name: "Utilities"
-  description: "Utilities"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - albert
-    - archey3
-    - arcolinux-teamviewer
-    - baobab
-    - bleachbit
-    - caffeine-ng
-    - catfish
-    - evince
-    - glances
-    - grsync
-    - gtop
-    - gufw
-    - hddtemp
-    - lm_sensors
-    - open-vm-tools
-    - optimus-manager
-    - meld
-    - octopi
-    - pamac-aur
-    - powertop
-    - putty
-    - simple-scan
-    - screenfetch
-    - synapse
-    - systemd-manager
-    - timeshift
-    - vnstat
-    - wireshark-qt
-    - wttr
-    - youtube-dl
 - name: "Virtualbox for Linux kernel"
   description: "Installs virtualbox for linux kernel"
   critical: false
