@@ -13,21 +13,6 @@
     - arcolinux-variety-git
     - variety
     - xfburn
-- name: "Communication"
-  description: "Communication"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - discord
-    - qtox
-    - riot-desktop
-    - skypeforlinux-stable-bin
-    - teams
-    - telegram-desktop
-    - viber
-    - wire-desktop
-    - zoom
 - name: "Conky"
   description: "Conky and conky collection"
   critical: false
