@@ -45,6 +45,13 @@
     - libreoffice-still
     - libreoffice-still-$LOCALE
     - hunspell-$LOCALE
+- name: "Moneydance"
+  description: "Moneydance"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - moneydance    
 - name: "Onlyoffice"
   description: "Onlyoffice"
   critical: false
