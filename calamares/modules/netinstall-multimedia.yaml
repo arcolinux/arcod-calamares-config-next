@@ -14,10 +14,12 @@
     - elisa
     - guvcview
     - handbrake
+    - juk
     - kdenlive
     - kodi
     - kodi-addons
     - lollypop
+    - lxmusic
     - lmms
     - obs-studio
     - openshot
@@ -29,6 +31,7 @@
     - plex-media-player
     - plex-media-server
     - pragha
+    - radiotray
     - rhythmbox
     - simplescreenrecorder
     - soundconverter

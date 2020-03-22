@@ -4,14 +4,19 @@
   hidden: false
   selected: false
   packages:
+    - cheese
     - font-manager-git
     - galculator
     - flameshot
+    - liferea
+    - mediainfo
+    - mcomix
+    - pdfarranger
     - plank
     - arcolinux-plank-themes-git
     - screenkey-git
-    - arcolinux-variety-git
     - variety
+    - arcolinux-variety-git
     - xfburn
 - name: "Conky"
   description: "Conky and conky collection"
@@ -57,15 +62,6 @@
     - ttf-liberation
     - ttf-roboto
     - ttf-ubuntu-font-family
-- name: "Games"
-  description: "Games"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - arcolinux-meta-steam
-    - lutris
-    - minecraft-launcher
 - name: "Git"
   description: "Git"
   critical: false
@@ -73,6 +69,7 @@
   selected: false
   packages:
     - gitahead-bin
+    - gitg
     - gitfiend
     - gitkraken
 - name: "Graphics"
