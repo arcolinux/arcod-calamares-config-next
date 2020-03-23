@@ -146,6 +146,7 @@
     - lxqt-arc-dark-theme-git
     - arcolinux-qt5-git
     - xfce4-terminal
+    - dmenu
 - name: "Desktop: Mate"
   description: "Installs mate desktop"
   critical: false
@@ -249,6 +250,7 @@
     - arcolinux-xfce-git
     - arcolinux-config-xfce-git
     - arcolinux-xfce-dconf-git
+    - dmenu    
 - name: "Desktop: Xmonad"
   description: "Installs xmonad desktop"
   critical: false
