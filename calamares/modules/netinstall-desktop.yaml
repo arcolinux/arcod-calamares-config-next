@@ -223,7 +223,6 @@
     - cryfs
     - breeze
     - arcolinux-arc-kde
-    - surfn-arc-breeze-icons-git
 - name: "Desktop: Qtile"
   description: "Installs qtile desktop"
   critical: false
