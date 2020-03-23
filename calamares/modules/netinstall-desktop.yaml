@@ -14,6 +14,7 @@
     - arcolinux-awesome-dconf-git
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
@@ -38,6 +39,7 @@
     - arcolinux-bspwm-dconf-git
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
@@ -110,6 +112,7 @@
     - arcolinux-herbstluftwm-dconf-git
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
@@ -127,6 +130,7 @@
     - arcolinux-i3wm-dconf-git
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
@@ -188,6 +192,7 @@
     - xcape
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
@@ -236,6 +241,7 @@
     - arcolinux-qtile-dconf-git
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
@@ -275,6 +281,7 @@
     - arcolinux-oblogout-themes-git
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - xfce4-terminal
     - picom
