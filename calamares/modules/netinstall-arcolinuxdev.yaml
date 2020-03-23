@@ -1,5 +1,5 @@
 - name: "ArcoLinux Dev"
-  description: "Development software"
+  description: "Software for ArcoLinux developers and betatesters"
   critical: false
   hidden: false
   selected: false
@@ -13,6 +13,7 @@
     - the_platinum_searcher-bin
     - thunar
     - thunar-archive-plugin
+    - thunar-volman
     - arcolinux-xfce-git
     - telegram-desktop
     - discord
