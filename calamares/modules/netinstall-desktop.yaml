@@ -70,6 +70,7 @@
     - arcolinux-cinnamon-git
     - arcolinux-config-cinnamon-git
     - arcolinux-cinnamon-dconf-git
+    - xfce4-terminal
 - name: "Desktop: Deepin"
   description: "Installs deepin desktop"
   critical: false
@@ -162,6 +163,7 @@
     - arcolinux-mate-git
     - arcolinux-config-mate-git
     - arcolinux-mate-dconf-git
+    - xfce4-terminal
 - name: "Desktop: Openbox"
   description: "Installs openbox desktop"
   critical: false
