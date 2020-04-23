@@ -17,6 +17,7 @@
     - screenkey-git
     - variety
     - arcolinux-variety-git
+    - vim-plugins
     - xfburn
 - name: "Conky"
   description: "Conky and conky collection"
@@ -122,6 +123,7 @@
   selected: false
   packages:
     - alacritty
+    - arcolinux-termite-themes-git
     - gnome-terminal
     - guake
     - kitty
@@ -129,7 +131,6 @@
     - lxterminal
     - sakura
     - terminator
-    - termite
     - tilix
     - tilda
     - tmux
