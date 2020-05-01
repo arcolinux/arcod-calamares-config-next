@@ -250,7 +250,7 @@
     - nitrogen
     - arcolinux-nitrogen-git
     - perl-linux-desktopfiles
-    - arcolinux-openbox-git
+    - arcolinux-openboxb-git
     - arcolinux-obmenu-generator-git
     - arcolinux-logout-git
     - arcolinux-oblogout
@@ -267,8 +267,13 @@
     - xfce4-terminal
     - xfce4-taskmanager
     - xfce4-settings
+    - gnome-screenshot
+    - xfce4-screenshooter
     - picom
     - gmrun
+    - rofi
+    - arcolinux-rofi-git
+    - arcolinux-rofi-themes-git
     - arcolinux-tweak-tool-git
     - arcolinux-local-xfce4-git
 - name: "Desktop: Plasma"
