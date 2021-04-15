@@ -5,6 +5,7 @@
   selected: false
   packages:
     - sddm
+    - sddm-config-editor-git
     - arcolinux-wallpapers-git
     - arcolinux-sddm-chili-git
     - arcolinux-sddm-fralonra-git
