@@ -656,8 +656,8 @@
     - thunar-volman
     - ukui
     - xfce4-terminal
-- name: "Desktop: Xfce"
-  description: "Installs xfce desktop"
+- name: "Desktop: Xfce4"
+  description: "Installs xfce4 desktop"
   critical: false
   hidden: false
   selected: false
