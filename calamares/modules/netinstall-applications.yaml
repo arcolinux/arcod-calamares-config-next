@@ -19,7 +19,10 @@
     - plank
     - arcolinux-plank-themes-git
     - screenkey-git
+    - variety
+    - arcolinux-variety-git
     - vim-plugins
+    - xfburn
 - name: "Conky"
   description: "Conky and conky collection"
   critical: false
