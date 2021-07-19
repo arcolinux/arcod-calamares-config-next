@@ -203,7 +203,7 @@ QLineEdit#textBoxUserPassword, QLineEdit#textBoxRootPassword {
 	font: 16px;
 }
 
-#ParitionPage::QlistWidget::mlistFlags {
+#mlistFlags {
 	alternatingRowColors: false;
 }
 
