@@ -417,6 +417,7 @@
   selected: false
   packages:
     - arcolinux-leftwm-git
+    - arcolinux-candy-beauty-git
     - arcolinux-config-all-desktops-git
     - arcolinux-dconf-all-desktops-git
     - arcolinux-gtk3-arcolinux-candy-beauty-git
